@@ -1,1 +1,1 @@
-# tarjeta-de-credito
+# Puntuación de tarjetas-de-credito
